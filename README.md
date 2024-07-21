@@ -1,7 +1,10 @@
 # 構築手順書:VagrantでZabbixサーバーを構築する。
 zabbix.menta.me(zabbixサーバー)を構築し、dev.menta.me(wordpress)を立ち上げて監視する。
 
-## 新しくVagrantfileを作成し、zabbixサーバーを構築する。
+![無題のプレゼンテーション (3)](https://github.com/user-attachments/assets/9731f1ed-a0f1-4dd0-8b9a-86379894849e)
+
+
+## Vagrantfileを作成し、zabbixサーバーを構築する。
 以下のVagrantfileを新しく作成し、`vagrant up`を行う。
 
 ```
